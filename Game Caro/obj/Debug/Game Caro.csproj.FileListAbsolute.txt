@@ -28,12 +28,13 @@ C:\Users\thanh\Downloads\game-caro-master\game-caro-master\Game Caro\obj\Debug\G
 C:\Users\thanh\Downloads\game-caro-master\game-caro-master\Game Caro\bin\Debug\Game Caro.exe.config
 C:\Users\thanh\Downloads\game-caro-master\game-caro-master\Game Caro\bin\Debug\Game Caro.exe
 C:\Users\thanh\Downloads\game-caro-master\game-caro-master\Game Caro\bin\Debug\Game Caro.pdb
-C:\Users\thanh\Downloads\GameCaro\gameCaro\Game Caro\bin\Debug\Game Caro.exe.config
-C:\Users\thanh\Downloads\GameCaro\gameCaro\Game Caro\bin\Debug\Game Caro.exe
-C:\Users\thanh\Downloads\GameCaro\gameCaro\Game Caro\obj\Debug\Game Caro.csproj.AssemblyReference.cache
-C:\Users\thanh\Downloads\GameCaro\gameCaro\Game Caro\obj\Debug\Game_Caro.GameCaro.resources
-C:\Users\thanh\Downloads\GameCaro\gameCaro\Game Caro\obj\Debug\Game_Caro.Properties.Resources.resources
-C:\Users\thanh\Downloads\GameCaro\gameCaro\Game Caro\obj\Debug\Game Caro.csproj.GenerateResource.cache
-C:\Users\thanh\Downloads\GameCaro\gameCaro\Game Caro\obj\Debug\Game Caro.csproj.CoreCompileInputs.cache
-C:\Users\thanh\Downloads\GameCaro\gameCaro\Game Caro\obj\Debug\Game Caro.exe
-C:\Users\thanh\Downloads\GameCaro\gameCaro\Game Caro\obj\Debug\Game Caro.pdb
+C:\Users\thanh\Downloads\GameCaro (1)\GameCaro\gameCaro\Game Caro\bin\Debug\Game Caro.exe.config
+C:\Users\thanh\Downloads\GameCaro (1)\GameCaro\gameCaro\Game Caro\bin\Debug\Game Caro.exe
+C:\Users\thanh\Downloads\GameCaro (1)\GameCaro\gameCaro\Game Caro\bin\Debug\Game Caro.pdb
+C:\Users\thanh\Downloads\GameCaro (1)\GameCaro\gameCaro\Game Caro\obj\Debug\Game Caro.csproj.AssemblyReference.cache
+C:\Users\thanh\Downloads\GameCaro (1)\GameCaro\gameCaro\Game Caro\obj\Debug\Game_Caro.GameCaro.resources
+C:\Users\thanh\Downloads\GameCaro (1)\GameCaro\gameCaro\Game Caro\obj\Debug\Game_Caro.Properties.Resources.resources
+C:\Users\thanh\Downloads\GameCaro (1)\GameCaro\gameCaro\Game Caro\obj\Debug\Game Caro.csproj.GenerateResource.cache
+C:\Users\thanh\Downloads\GameCaro (1)\GameCaro\gameCaro\Game Caro\obj\Debug\Game Caro.csproj.CoreCompileInputs.cache
+C:\Users\thanh\Downloads\GameCaro (1)\GameCaro\gameCaro\Game Caro\obj\Debug\Game Caro.exe
+C:\Users\thanh\Downloads\GameCaro (1)\GameCaro\gameCaro\Game Caro\obj\Debug\Game Caro.pdb

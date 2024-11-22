@@ -470,10 +470,5 @@ namespace Game_Caro
         }
 
         #endregion
-
-        private void txt_Chat_TextChanged(object sender, EventArgs e)
-        {
-
-        }
     }
 }
