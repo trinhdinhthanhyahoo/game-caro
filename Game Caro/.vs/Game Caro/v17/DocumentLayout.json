@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thanh\\Downloads\\game-caro-master\\game-caro-master\\Game Caro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\thanh\\Downloads\\game-caro-master\\game-caro-master\\Game Caro\\GameBoard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GameBoard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\thanh\\AppData\\Local\\Temp\\d76aca29-ba75-4be2-a501-9a52afc12480_game-caro-master.zip.480\\game-caro-master\\Game Caro\\GameCaro.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\thanh\\Downloads\\game-caro-master\\game-caro-master\\Game Caro\\GameCaro.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GameCaro.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\thanh\\Downloads\\game-caro-master\\game-caro-master\\Game Caro\\GameCaro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GameCaro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameBoard.cs",
+              "DocumentMoniker": "C:\\Users\\thanh\\Downloads\\game-caro-master\\game-caro-master\\Game Caro\\GameBoard.cs",
+              "RelativeDocumentMoniker": "GameBoard.cs",
+              "ToolTip": "C:\\Users\\thanh\\Downloads\\game-caro-master\\game-caro-master\\Game Caro\\GameBoard.cs",
+              "RelativeToolTip": "GameBoard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T17:24:32.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameCaro.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\thanh\\AppData\\Local\\Temp\\d76aca29-ba75-4be2-a501-9a52afc12480_game-caro-master.zip.480\\game-caro-master\\Game Caro\\GameCaro.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\d76aca29-ba75-4be2-a501-9a52afc12480_game-caro-master.zip.480\\game-caro-master\\Game Caro\\GameCaro.Designer.cs",
+              "ToolTip": "C:\\Users\\thanh\\AppData\\Local\\Temp\\d76aca29-ba75-4be2-a501-9a52afc12480_game-caro-master.zip.480\\game-caro-master\\Game Caro\\GameCaro.Designer.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\d76aca29-ba75-4be2-a501-9a52afc12480_game-caro-master.zip.480\\game-caro-master\\Game Caro\\GameCaro.Designer.cs [Read Only]",
+              "ViewState": "AQIAAJoAAAAAAAAAAAAAALAAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T17:22:38.879Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameCaro.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\thanh\\Downloads\\game-caro-master\\game-caro-master\\Game Caro\\GameCaro.Designer.cs",
+              "RelativeDocumentMoniker": "GameCaro.Designer.cs",
+              "ToolTip": "C:\\Users\\thanh\\Downloads\\game-caro-master\\game-caro-master\\Game Caro\\GameCaro.Designer.cs",
+              "RelativeToolTip": "GameCaro.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T16:59:40.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameCaro.cs",
+              "DocumentMoniker": "C:\\Users\\thanh\\Downloads\\game-caro-master\\game-caro-master\\Game Caro\\GameCaro.cs",
+              "RelativeDocumentMoniker": "GameCaro.cs",
+              "ToolTip": "C:\\Users\\thanh\\Downloads\\game-caro-master\\game-caro-master\\Game Caro\\GameCaro.cs",
+              "RelativeToolTip": "GameCaro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T12:18:53.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 314,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
